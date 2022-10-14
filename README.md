@@ -1,2 +1,2 @@
 # hostu-usa
-HTML and CSS, this is my first project working with this, so very basic.
+First ever HTML+CSS project. Created a basic web page for a friend's company.
